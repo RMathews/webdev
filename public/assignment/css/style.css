@@ -3,5 +3,32 @@ input.form-control {
 }
 
 body {
-    padding-top: 36px;
+    padding-top: 65px;
+}
+
+.navbar-default .glyphicon{
+    color: black;
+}
+
+.navbar-fixed-bottom .glyphicon {
+    color: #337ab7;
+}
+
+.blue-navbar {
+    background-color: #337ab7;
+    border-color: #204d74;
+}
+.blue-navbar .navbar-brand {
+     color: #fff;
+}
+.blue-navbar .glyphicon {
+    color: #fff;
+}
+
+.navbar-text {
+    margin: 15px;
+}
+
+.list-group-item {
+    border:none;
 }
